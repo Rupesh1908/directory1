@@ -1,2 +1,3 @@
 hello everyone
 write a program to check given number is prime number or not
+practice all programs
